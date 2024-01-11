@@ -43,7 +43,7 @@ python3 main.py
 2. Extend the file `demo_questions.txt` with your questions.
 3. Replace the file path in `main.py` with one of your files.
 
-For how to file structure works, see `demo_questions.txt`.
+For how the file structure works, see `demo_questions.txt`.
 
 ## License
 
