@@ -1,0 +1,52 @@
+The first three lines are always skipped, you can place comments here. The layout of the questions look like this:
+QUESTION|CORRECT ANSWER|WRONG ANSWER 1|WRONG ANSWER 2|WRONG ANSWER 3|DIFFICULT(0 - 4)|POINTS
+
+Who is the main character in "Romeo and Juliet"?|Romeo|Juliet|Macbeth|Hamlet|0|1000
+What is the capital of France?|Paris|Berlin|Madrid|Rome|0|1000
+In which year did Christopher Columbus first reach the Americas?|1492|1510|1607|1776|0|1000
+What is the largest planet in our solar system?|Jupiter|Mars|Venus|Saturn|0|1000
+Who painted the Mona Lisa?|Leonardo da Vinci|Vincent van Gogh|Pablo Picasso|Claude Monet|0|1000
+What is the capital of Japan?|Tokyo|Beijing|Seoul|Bangkok|0|1000
+In which continent is the Sahara Desert located?|Africa|Asia|South America|Europe|0|1000
+What is the chemical symbol for water?|H2O|CO2|O2|N2|0|1000
+Which planet is known as the "Red Planet"?|Mars|Venus|Jupiter|Saturn|0|1000
+Who wrote "To Kill a Mockingbird"?|Harper Lee|J.K. Rowling|Ernest Hemingway|George Orwell|0|1000
+What is the largest ocean on Earth?|Pacific Ocean|Atlantic Ocean|Indian Ocean|Arctic Ocean|1|20000
+Which country is famous for the Great Barrier Reef?|Australia|Brazil|Mexico|Canada|1|20000
+Who is the author of the Harry Potter series?|J.K. Rowling|Stephen King|George R.R. Martin|Suzanne Collins|1|20000
+What is the currency of Japan?|Japanese Yen|Euro|Pound Sterling|Dollar|1|20000
+Which element has the chemical symbol "O"?|Oxygen|Gold|Iron|Silver|1|20000
+In which year did the Titanic sink?|1912|1901|1923|1935|1|20000
+What is the capital of Brazil?|Brasília|Rio de Janeiro|São Paulo|Buenos Aires|1|20000
+Who wrote "The Great Gatsby"?|F. Scott Fitzgerald|Ernest Hemingway|Mark Twain|Jane Austen|1|20000
+What is the capital of South Korea?|Seoul|Tokyo|Beijing|Bangkok|1|20000
+Which gas makes up the majority of Earth's atmosphere?|Nitrogen|Oxygen|Carbon Dioxide|Helium|1|20000
+What is the currency of China?|Renminbi (Yuan)|Rupee|Peso|Dinar|2|50000
+In which year did World War II end?|1945|1918|1939|1953|2|50000
+Who painted "Starry Night"?|Vincent van Gogh|Leonardo da Vinci|Pablo Picasso|Claude Monet|2|50000
+What is the capital of Canada?|Ottawa|Toronto|Vancouver|Montreal|2|50000
+In Greek mythology, who is the god of the sea?|Poseidon|Zeus|Hades|Apollo|2|50000
+Which planet is known as the "Blue Planet"?|Earth|Mars|Uranus|Neptune|2|50000
+What is the largest mammal in the world?|Blue Whale|Elephant|Giraffe|Hippopotamus|2|50000
+Who wrote "1984"?|George Orwell|Aldous Huxley|Ray Bradbury|J.R.R. Tolkien|2|50000
+What is the smallest prime number?|2|1|3|5|2|50000
+Which element has the chemical symbol "Fe"?|Iron|Gold|Silver|Copper|2|50000
+Who discovered penicillin?|Alexander Fleming|Marie Curie|Louis Pasteur|Joseph Lister|3|80000
+What is the capital of Australia?|Canberra|Sydney|Melbourne|Brisbane|3|80000
+In which year was the United Nations founded?|1945|1919|1933|1957|3|80000
+Who wrote "Pride and Prejudice"?|Jane Austen|Charles Dickens|Charlotte Brontë|Leo Tolstoy|3|80000
+What is the largest desert in the world by area?|Antarctica|Arctic|Sahara|Gobi|3|80000
+Who composed the "Moonlight Sonata"?|Ludwig van Beethoven|Wolfgang Amadeus Mozart|Johann Sebastian Bach|Franz Schubert|3|80000
+What is the capital of Argentina?|Buenos Aires|Rio de Janeiro|Lima|Santiago|3|80000
+In which country is Mount Everest located?|Nepal|China|India|Bhutan|3|80000
+Which gas is responsible for the greenhouse effect on Earth?|Carbon Dioxide|Methane|Ozone|Nitrous Oxide|3|80000
+Who developed the theory of relativity?|Albert Einstein|Isaac Newton|Galileo Galilei|Niels Bohr|3|80000
+In what year was the Magna Carta signed?|1215|1304|1142|1278|4|100000
+Who was the first woman to win a Nobel Prize?|Marie Curie|Rosalind Franklin|Dorothy Crowfoot Hodgkin|Barbara McClintock|4|100000
+What is the capital of Kazakhstan?|Nur-Sultan|Almaty|Astana|Bishkek|4|100000
+Which chemical element has the highest melting point?|Tungsten|Titanium|Platinum|Osmium|4|100000
+Who wrote "One Hundred Years of Solitude"?|Gabriel García Márquez|Franz Kafka|Isabel Allende|Haruki Murakami|4|100000
+In which century did the Renaissance begin?|14th century|15th century|16th century|17th century|4|100000
+What is the capital of Mongolia?|Ulaanbaatar|Astana|Bishkek|Tashkent|4|100000
+Who discovered the structure of DNA?|James Watson and Francis Crick|Rosalind Franklin|Linus Pauling|Barbara McClintock|4|100000
+In which year did the Industrial Revolution begin?|18th century|19th century|17th century|20000th century|4|100000
