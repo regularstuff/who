@@ -1,0 +1,4 @@
+# no third-party libraries (TPLs) in master branch
+# leave this file here for platforms eager to create requirements.txt
+# maintainers, do not changes to main that require TPLs
+# Todo -- figure out a way to fail merges targeting main that change this file

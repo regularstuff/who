@@ -1,14 +1,11 @@
+
 <div align="center">
 <h1>
-  <br>
-  <a href="https://git.jdrodenkirchen.de/drodenkirchen/who-wants-to-be-a-millionaire/"><img src="https://git.jdrodenkirchen.de/drodenkirchen/who-wants-to-be-a-millionaire/-/raw/main/project_logo.png" alt="Logo is missing, yo" width="200"></a>
-  <br>
-  Who wants to be a millionaire
-  <br>
+Who wants to be a Millionaire?
 </h1>
-
-<h4 align="center">A pure Python console game where you answer increasingly more difficult trivia questions until you reach a million points</h4>
-
+<h2>
+A console-based game for students of python programming
+</h2>
 <p>
   <a href="http://www.wtfpl.net/">
     <img src="https://img.shields.io/badge/licence-WTFPL-green?style=flat" alt="WTFPL">
@@ -18,6 +15,24 @@
     <img src="https://img.shields.io/badge/version-1.0.0-orange?style=flat">
   </a>
 </p>
+</div>
+<P>This repo is for teaching purposes.  We use it in the "Python Study Central" discord.
+Work was originally done by Typhus, everything after the 1.0.0 tag on master is from
+the discord.  The discord is open to everyone and the invite is: https://discord.com/invite/BmKJaqTdRc
+
+<P>The code is for a python console-based game.  It illustrates 
+
+- Parsing files
+- Parsing files
+- Transvering logic trees
+- Organizing data
+- list and dict usage
+- compartmentalization of code
+- object orientation
+- input validation
+- state management
+- Exception handling
+
 
 <p>
   <a href="#how-to-play">How To Play</a> •
@@ -29,7 +44,9 @@
 
 ## How To Play
 
-Download the source code from [Git](https://git.jdrodenkirchen.de/drodenkirchen/who-wants-to-be-a-millionaire/) and run the application with Python.
+Clone this repo, and use python to run main.py.  You don't need to install any 
+third party libraries for the "main" branch.  (other branches have code specifically
+to illustrate use of other libraries)
 
 ```shell
 python3 main.py

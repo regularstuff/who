@@ -6,11 +6,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# plaintext files
-*.txt
-
-# csv-files
-*.csv
 
 # certificates
 *.crt
