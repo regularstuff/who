@@ -56,11 +56,22 @@ class WhoWantsToBeAMillionaire:
         question_string, option_mapping = self._build_question_string(new_question)
         print(question_string, end="\n\n")
         user_choice = input("SELECT [A - D]: ").upper().strip()
-        if user_choice not in ["A", "B", "C", "D"]:
+        if user_choice not in ["A", "B", "C", "D", "H"]:
             return self._play_round(new_question)
 
-        selected_answer = option_mapping[ord(user_choice) - 65]  # Uses ASCII value to map ABCD to answer index
         self._clear_screen()
+        if user_choice == "H":
+
+            rule_out = new_question.random_wrong_answer_for_hint
+            print(color_string(f"Well it's not {rule_out}", Color.RED))
+            time.sleep(1.0)
+            print(color_string(f"\nNope, not {rule_out}", Color.LIGHT_RED))
+            throwaway = input(color_string("\nHit any key to take another whack at it", Color.LIGHT_RED))
+            return self._play_round(new_question)
+
+
+        selected_answer = option_mapping[ord(user_choice) - 65]  # Uses ASCII value to map ABCD to answer index
+
         if new_question.answer_question(selected_answer):
             print(color_string("Correct!", Color.GREEN))
             time.sleep(0.3)

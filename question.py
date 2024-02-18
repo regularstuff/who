@@ -33,3 +33,10 @@ class Question:
         answers = [a0, a1, a2, a3]
         shuffle(answers)
         return answers
+
+    @property
+    def random_wrong_answer_for_hint(self):
+        wrong_answer_list = list(self._answers.get_wrong_answers())
+        shuffle(wrong_answer_list)
+        return wrong_answer_list[0]
+
